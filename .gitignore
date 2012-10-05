@@ -1,6 +1,10 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
+.DS_Store
+Library
+Temp
+*.apk
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.userprefs
